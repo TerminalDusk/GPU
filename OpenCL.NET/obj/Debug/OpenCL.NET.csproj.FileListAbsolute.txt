@@ -1,0 +1,7 @@
+C:\Users\zyzn\Desktop\opencl.net-master\OpenCL.NET\bin\Debug\OpenCL.NET.XML
+C:\Users\zyzn\Desktop\opencl.net-master\OpenCL.NET\bin\Debug\OpenCL.NET.dll
+C:\Users\zyzn\Desktop\opencl.net-master\OpenCL.NET\bin\Debug\OpenCL.NET.pdb
+C:\Users\zyzn\Desktop\opencl.net-master\OpenCL.NET\obj\Debug\OpenCL.NET.csprojAssemblyReference.cache
+C:\Users\zyzn\Desktop\opencl.net-master\OpenCL.NET\obj\Debug\OpenCL.NET.csproj.CoreCompileInputs.cache
+C:\Users\zyzn\Desktop\opencl.net-master\OpenCL.NET\obj\Debug\OpenCL.NET.dll
+C:\Users\zyzn\Desktop\opencl.net-master\OpenCL.NET\obj\Debug\OpenCL.NET.pdb
